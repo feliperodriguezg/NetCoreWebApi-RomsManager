@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RomManagerWebApi", "RomManagerWebApi\RomManagerWebApi.csproj", "{19E68A1D-514F-4356-B519-C7CDF744051D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomManagerApi.Business", "RomManagerApi.Business\RomManagerApi.Business.csproj", "{BAB1E662-BE65-4A6A-BA03-D93C9266D7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19E68A1D-514F-4356-B519-C7CDF744051D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19E68A1D-514F-4356-B519-C7CDF744051D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19E68A1D-514F-4356-B519-C7CDF744051D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19E68A1D-514F-4356-B519-C7CDF744051D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAB1E662-BE65-4A6A-BA03-D93C9266D7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAB1E662-BE65-4A6A-BA03-D93C9266D7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAB1E662-BE65-4A6A-BA03-D93C9266D7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAB1E662-BE65-4A6A-BA03-D93C9266D7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

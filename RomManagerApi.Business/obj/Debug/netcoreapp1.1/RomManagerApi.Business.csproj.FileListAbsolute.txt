@@ -1,0 +1,7 @@
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\bin\Debug\netcoreapp1.1\RomManagerApi.Business.deps.json
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\bin\Debug\netcoreapp1.1\RomManagerApi.Business.dll
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\bin\Debug\netcoreapp1.1\RomManagerApi.Business.pdb
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\obj\Debug\netcoreapp1.1\RomManagerApi.Business.csprojResolveAssemblyReference.cache
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\obj\Debug\netcoreapp1.1\RomManagerApi.Business.AssemblyInfo.cs
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\obj\Debug\netcoreapp1.1\RomManagerApi.Business.dll
+C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerApi.Business\obj\Debug\netcoreapp1.1\RomManagerApi.Business.pdb
