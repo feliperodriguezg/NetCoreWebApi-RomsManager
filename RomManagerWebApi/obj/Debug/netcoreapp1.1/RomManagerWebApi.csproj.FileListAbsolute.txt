@@ -1,6 +1,0 @@
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\bin\Debug\netcoreapp1.1\RomManagerWebApi.deps.json
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\bin\Debug\netcoreapp1.1\RomManagerWebApi.runtimeconfig.json
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\bin\Debug\netcoreapp1.1\RomManagerWebApi.runtimeconfig.dev.json
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\bin\Debug\netcoreapp1.1\RomManagerWebApi.dll
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\obj\Debug\netcoreapp1.1\RomManagerWebApi.csprojResolveAssemblyReference.cache
-C:\Users\Felipe\documents\visual studio 2017\Projects\RomManagerWebApi\RomManagerWebApi\obj\Debug\netcoreapp1.1\RomManagerWebApi.AssemblyInfo.cs
