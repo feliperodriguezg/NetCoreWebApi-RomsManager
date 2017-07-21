@@ -20,3 +20,7 @@ RomManagerWebApi/obj/Debug/netcoreapp1.1/RomManagerWebApi.csprojResolveAssemblyR
 RomManagerWebApi/obj/Debug/netcoreapp1.1/RomManagerWebApi.dll
 RomManagerWebApi/obj/Debug/netcoreapp1.1/RomManagerWebApi.pdb
 
+RomManagerApi.Business/obj/RomManagerApi.Business.csproj.nuget.g.props
+RomManagerApi.Business/obj/project.assets.json
+RomManagerWebApi/obj/project.assets.json
+RomManagerWebApi/obj/RomManagerWebApi.csproj.nuget.g.props

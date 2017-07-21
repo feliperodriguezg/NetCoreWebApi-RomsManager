@@ -12,6 +12,7 @@ namespace RomManagerApi.Business.Repositories
         }
         public GetGamelistResponse GetGamelist(GetGamelistRequest request)
         {
+            string plataforma = "";
             throw new NotImplementedException();
         }
         public SearchResponse Search(SearchRequest request)
